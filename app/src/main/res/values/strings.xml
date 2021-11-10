@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="title_text">Texto del Título</string>
+    <string name="text">This is a text</string>
+</resources>

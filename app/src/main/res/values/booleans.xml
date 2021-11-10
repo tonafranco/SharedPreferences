@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="keyforboolean1">true</bool>
+    <bool name="keyforboolean2">false</bool>
+    <bool name="keyforboolean3">false</bool>
+    <bool name="keyforboolean4">true</bool>
+</resources>
